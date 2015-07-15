@@ -374,8 +374,8 @@ int main(int argc, char *argv[])
 //     eee_write(0xABABABAB);
 //     ee_write(0xAB79);
 //       e_write(0xAB);
-//     read = e_read(0xAB);
-       _read();
+     read = e_read(0xAB);
+//       _read();
 //       printf("rxb: %x \n",read);
 //     for(i=0;i<40;i++);     
   }
