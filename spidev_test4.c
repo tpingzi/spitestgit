@@ -376,7 +376,7 @@ int main(int argc, char *argv[])
 //       e_write(0xAB);
      read = e_read(0xAB);
 //       _read();
-//       printf("rxb: %x \n",read);
+//       printf("rxb: %x \n",read);  gsgsdfsfs
 //     for(i=0;i<40;i++);     
   }
   //printf("\n");
